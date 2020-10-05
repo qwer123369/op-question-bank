@@ -26,3 +26,5 @@ IT运维岗位属于服务性质，而我们多入职于大部分处于一线的
 退出练习，查看结果（end exam)
 
 ![pic3.png](https://i.loli.net/2020/09/27/eQ9btB3XNVqjsdl.png)
+
+ [题库百毒盘版 8848专属](链接：https://pan.baidu.com/s/1DX02_fRVJ1ceI7-UAwec-Q)
