@@ -6,7 +6,13 @@ IT运维岗位属于服务性质，而我们多入职于大部分处于一线的
 
 **先有块敲门砖，再入职深度学习，也是当下环境不错的选择！**
 
+
 ### Visual CertExam
+
+使用[题库软件（题库模拟器与PDF题库格式转换器）](https://wwa.lanzous.com/ifPxOh6ve6j): 
+* [vce-simulator官方下载](http://www.vceexam.com/)
+* [Exam Formatter官方下载](https://www.examcollection.com/examformatter.html)
+
 
 导入.vce文件（add），点击启动(start)，进入后开始（begin）
 
