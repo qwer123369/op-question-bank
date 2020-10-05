@@ -9,9 +9,10 @@ IT运维岗位属于服务性质，而我们多入职于大部分处于一线的
 
 ### Visual CertExam
 
-使用[题库软件（题库模拟器与PDF题库格式转换器）](https://wwa.lanzous.com/ifPxOh6ve6j): 
+下载题库软件: 
 * [vce-simulator官方下载](http://www.vceexam.com/)
 * [Exam Formatter官方下载](https://www.examcollection.com/examformatter.html)
+* [蓝奏云-题库模拟器与PDF题库格式转换器 2N1](https://wwa.lanzous.com/ifPxOh6ve6j)
 
 
 导入.vce文件（add），点击启动(start)，进入后开始（begin）
