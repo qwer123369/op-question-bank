@@ -13,16 +13,10 @@ IT运维岗位属于服务性质，而我们多入职于大部分处于一线的
 * [vce-simulator官方下载](http://www.vceexam.com/)
 * [蓝奏云-vue题库模拟器 designer & player](https://wwa.lanzous.com/icpEQh7kw6h)
 
+使用方法
 
-导入.vce文件（add），点击启动(start)，进入后开始（begin）
+1. PDF等其他格式文档需转成rtf、txt文件，再用designer导入该类型文件，另存为.vce格式即可
+1. 使用player导入.vce文件，选择启动，进入后点击开始
 
-![pic1.png](https://i.loli.net/2020/09/27/zkywrDhMPbWo6ud.png)
 
-效果
-
-![pic2.png](https://i.loli.net/2020/09/27/PdlD2R7jiYbnwTA.png)
-
-退出练习，查看结果（end exam)
-
-![pic3.png](https://i.loli.net/2020/09/27/eQ9btB3XNVqjsdl.png)
 
