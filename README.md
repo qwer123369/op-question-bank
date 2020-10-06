@@ -12,11 +12,11 @@ IT运维岗位属于服务性质，而我们多入职于大部分处于一线的
 下载题库软件: 
 * [vce-simulator官方下载](http://www.vceexam.com/)
 * [蓝奏云-vue题库模拟器 designer & player](https://wwa.lanzous.com/icpEQh7kw6h)
+* [鸿浩论坛下载](https://bbs.hh010.com/thread-586219-1-1.html?_dsign=07a3f391)
 
 使用方法
 
 1. PDF等其他格式文档需转成rtf、txt文件，再用designer导入该类型文件，另存为.vce格式即可
 1. 使用player导入.vce文件，选择启动，进入后点击开始
 
-
-
+注意：在使用designer导入rtf文档会卡顿较长时间均为正常现象
