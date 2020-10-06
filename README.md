@@ -11,8 +11,7 @@ IT运维岗位属于服务性质，而我们多入职于大部分处于一线的
 
 下载题库软件: 
 * [vce-simulator官方下载](http://www.vceexam.com/)
-* [Exam Formatter官方下载](https://www.examcollection.com/examformatter.html)
-* [蓝奏云-题库模拟器与PDF题库格式转换器 2N1](https://wwa.lanzous.com/ifPxOh6ve6j)
+* [蓝奏云-vue题库模拟器 designer & player](https://wwa.lanzous.com/icpEQh7kw6h)
 
 
 导入.vce文件（add），点击启动(start)，进入后开始（begin）
@@ -27,4 +26,3 @@ IT运维岗位属于服务性质，而我们多入职于大部分处于一线的
 
 ![pic3.png](https://i.loli.net/2020/09/27/eQ9btB3XNVqjsdl.png)
 
- [题库百毒盘版 8848专属提取码](https://pan.baidu.com/s/1DX02_fRVJ1ceI7-UAwec-Q)
