@@ -36,7 +36,8 @@ IT运维岗位属于服务性质，而我们多入职于大部分处于一线的
 * [考试报名入口 Pearson VUE官方简介](https://www.pearson.com.cn/PQI/PearsonVue)
 * 一些认证在淘宝上还有折扣券
 
-报考流程
+报考流程（其他资质认证考证同理）
 
 * [OCJP考试VUE约考流程-百度经验](https://jingyan.baidu.com/article/72ee561a537855e16138df2b.html)
 * [鸿鹄论坛-[戰報] ITIL V3 Foundation自行报考指南](https://bbs.hh010.com/thread-546945-1-1.html)
+* [工业和信息化部教育与考试中心官网-软考报考指南](http://www.ruankao.org.cn/platform)
