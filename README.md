@@ -28,3 +28,15 @@ IT运维岗位属于服务性质，而我们多入职于大部分处于一线的
 * [网盘题库套装  提取码: 8848](https://pan.baidu.com/s/1JNt4lxdOxWJkEOEQEfLKcQ)
 
 ***
+
+### 考试报名
+
+* visa 信用卡（可向银行申请办理）
+* 考试以美元作为费用结算
+* [考试报名入口 Pearson VUE官方简介](https://www.pearson.com.cn/PQI/PearsonVue)
+* 一些认证在淘宝上还有折扣券
+
+报考流程
+
+* [OCJP考试VUE约考流程-百度经验](https://jingyan.baidu.com/article/72ee561a537855e16138df2b.html)
+* [鸿鹄论坛-[戰報] ITIL V3 Foundation自行报考指南](https://bbs.hh010.com/thread-546945-1-1.html)
